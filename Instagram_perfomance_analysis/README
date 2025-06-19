@@ -1,0 +1,58 @@
+# 📊 Instagram Analytics Challenge
+
+This project was completed as part of a data analyst internship assessment for **My Thriving Child**. 
+It focuses on cleaning, analyzing, and visualizing Instagram performance data using **Python (Pandas, Matplotlib)** and **Power BI**.
+
+---
+
+## 🔍 Project Objectives
+
+- Clean and prepare Instagram post data.
+- Calculate and analyze key performance metrics.
+- Visualize post engagement, reach, and content effectiveness.
+- Predict post performance based on engagement rate.
+
+---
+
+---
+
+## 📌 Key Metrics Tracked
+
+- **Engagement Rate** = (Likes + Comments + Shares) / Media Reach
+- **Total Posts**
+- **Total Engagement**
+- **Average Engagement Rate**
+- **Post Type Comparison (Reels vs Static)**
+- **Engagement Prediction** using a threshold model
+
+---
+
+## 📊 Visualizations in Power BI
+
+- KPI Cards: Total Posts, Reach, Engagement Rate, Total Likes, Comments, Shares
+- Line Chart: Engagement Trend Over Time
+- Bar Chart: Post Type Comparison
+- Donut Chart: Engagement Prediction (High vs Low)
+- Scatter Plot: Engagement Rate vs Reach
+- Stacked Bar Chart: Engagement Breakdown by Type
+
+---
+
+## 🧠 Key Insights
+
+- Reels typically achieve higher reach and are shared more frequently.
+- Some static posts still drive stronger comment-based engagement.
+- Optimal engagement tends to occur on specific days and times.
+- Posts with high engagement don’t always have the highest reach — quality matters.
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- Excel
+- Jupyter Lab
+
+
+> This project demonstrates my ability to work across data analysis, business intelligence, and reporting. Feel free to explore, clone, or reach out!
